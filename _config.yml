@@ -1,12 +1,12 @@
-title: Transactions over £25,000 in the Foreign and Commonwealth Office
-description: An example dataset taken from <a href="http://data.gov.uk/dataset/financial-transactions-data-fco" target="_blank">data.gov.uk</a> used here to demonstrate the open data publishing template in Github. This dataset is a monthly-updated list of all financial transactions spending over £25,000 made by the Foreign and Commonwealth Office, as part of the Government's commitment to transparency in expenditure.
+title: Proportion of the population using improved sanitation facilities
+description: A dataset taken from <a href="https://data.hdx.rwlabs.org/dataset/proportion_of_the_population_using_improved_sanitation_facilities" target="_blank">ReliefWeb Labs</a>The proportion of the population using an improved sanitation facility, total, urban, rural, is the percentage of the population with access to facilities that hygienically separate human excreta from human contact. Improved facilities include flush/pour flush toilets or latrines connected to a sewer, -septic tank, or -pit, ventilated improved pit latrines, pit latrines with a slab or platform of any material which covers the pit entirely, except for the drop hole and composting toilets/latrines. Unimproved facilities include public or shared facilities of an otherwise acceptable type, flush/pour-flush toilets or latrines which discharge directly into an open sewer or ditch, pit latrines without a slab, bucket latrines, hanging toilets or latrines which directly discharge in water bodies or in the open and the practice of open defecation in the bush, field or bodies or water. Definitions and a detailed description of these facilities can be found at the website of the WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation at www.wssinfo.org.
 
-publisher_text: Foreign and Commonwealth Office
-publisher_url: http://data.gov.uk/publisher/foreign-and-commonwealth-office
+publisher_text: The Humanitarian Data Exchange
+publisher_url: https://data.hdx.rwlabs.org/
 
-license_text: UK Open Government Licence (OGL)
-license_url: http://reference.data.gov.uk/id/open-government-licence
+license_text: United Nations Department of Economic and Social Affairs
+license_url: https://data.hdx.rwlabs.org/dataset/proportion_of_the_population_using_improved_sanitation_facilities
 
-frequency: Monthly
+frequency: Yearly
 
-certificate_embed: <script src='https://certificates.theodi.org/datasets/2502/certificates/14842/badge.js'></script>
+
